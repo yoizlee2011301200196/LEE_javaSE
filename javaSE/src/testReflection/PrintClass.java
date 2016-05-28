@@ -11,10 +11,6 @@ import java.lang.reflect.*;
 class PrintClass
 {
 
-    PrintClass()
-    {
-    }
-
     public static void printClass(String classname)
     {
         try
