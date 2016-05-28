@@ -3,7 +3,7 @@
 // Decompiler options: packimports(3) ansi 
 // Source File Name:   TestGeneric.java
 
-package generic;
+package testgeneric;
 
 import java.io.PrintStream;
 import java.util.*;

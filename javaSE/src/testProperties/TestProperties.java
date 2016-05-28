@@ -3,7 +3,7 @@
 // Decompiler options: packimports(3) ansi 
 // Source File Name:   TestProperties.java
 
-package properties;
+package testProperties;
 
 import java.io.*;
 import java.util.Properties;

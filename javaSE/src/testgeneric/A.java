@@ -3,9 +3,19 @@
 // Decompiler options: packimports(3) ansi 
 // Source File Name:   TestGeneric.java
 
-package generic;
+package testgeneric;
 
+import java.io.PrintStream;
 
-interface D
+class A
 {
+
+    A()
+    {
+    }
+
+    public void show()
+    {
+        System.out.println("this is A");
+    }
 }

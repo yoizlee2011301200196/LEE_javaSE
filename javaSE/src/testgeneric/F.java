@@ -3,16 +3,13 @@
 // Decompiler options: packimports(3) ansi 
 // Source File Name:   TestGeneric.java
 
-package generic;
+package testgeneric;
 
 
 // Referenced classes of package generic:
-//            B
+//            E
 
-class C extends B
+interface F
+    extends E
 {
-
-    C()
-    {
-    }
 }

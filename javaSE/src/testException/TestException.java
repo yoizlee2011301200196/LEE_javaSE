@@ -3,7 +3,7 @@
 // Decompiler options: packimports(3) ansi 
 // Source File Name:   TestException.java
 
-package exceptiontest;
+package testException;
 
 import java.io.PrintStream;
 

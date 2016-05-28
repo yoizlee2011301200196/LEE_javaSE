@@ -3,22 +3,13 @@
 // Decompiler options: packimports(3) ansi 
 // Source File Name:   TestGeneric.java
 
-package generic;
+package testgeneric;
 
-import java.io.PrintStream;
 
 // Referenced classes of package generic:
-//            A
+//            D
 
-class B extends A
+interface E
+    extends D
 {
-
-    B()
-    {
-    }
-
-    public void show(Object t)
-    {
-        System.out.println(t.toString());
-    }
 }
